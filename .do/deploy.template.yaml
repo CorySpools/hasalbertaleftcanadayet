@@ -1,10 +1,10 @@
 spec:
-  name: sample-react
+  name: alberta-react
   services:
   - environment_slug: node-js
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-react.git
+      repo_clone_url: https://github.com/CorySpools/hasalbertaleftcanadayet.git
     instance_count: 1
     instance_size_slug: apps-s-1vcpu-0.5gb
-    name: sample-react
+    name: alberta-react

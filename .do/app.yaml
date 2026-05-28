@@ -5,4 +5,4 @@ services:
     branch: main
     deploy_on_push: true
     repo: coryspools/hasalbertaleftcanadayet
-  name: sample-react
+  name: alberta-react
