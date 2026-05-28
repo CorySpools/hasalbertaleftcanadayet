@@ -4,6 +4,6 @@ import App from './App';
 
 test('renders digitalocean docs', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/No/i);
-  expect(linkElement).toBeInTheDocument();
+  const Element = getByText(/No/i);
+  expect(Element).toBeInTheDocument();
 });

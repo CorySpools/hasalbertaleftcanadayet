@@ -17,8 +17,9 @@ export default function App() {
           style={{ animationDuration: "30s" }}
           alt="No"
           width="300"
-        >No</h1>
-
+        >
+        No
+        </h1>
       </div>
     </div>
   );
